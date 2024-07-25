@@ -1,0 +1,15 @@
+{
+  "name": "challenge-8-svg-generator",
+  "version": "1.0.0",
+  "description": "SVG Generator that takes input from cmd line and creates svg",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
