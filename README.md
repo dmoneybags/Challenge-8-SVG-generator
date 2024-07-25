@@ -11,34 +11,34 @@
 6. [Tests](#tests)
 7. [Questions](#questions)
 
-##Description
+## Description
 
 a command line application to develop simple logos using svg
 
-##Installation
+## Installation
 
 run npm i to install necessary dependencies
 
-##Usage
+## Usage
 
 run node index.js to run the command line application 
 
-##License
+## License
 
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
   https://opensource.org/licenses/MIT
   
 
-##Contributing
+## Contributing
 
 no need to contribute
 
-##Tests
+## Tests
 
 run npm test to run the jest tests
 
-##Questions
+## Questions
 
 Github username:
 dmoneybags
